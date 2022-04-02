@@ -38,7 +38,7 @@ const WeatherPage = () => {
     });
   };
   return (
-    <div className="App">
+    <div className="Weather">
       <div className="city-case">
         <div className="containers">
           <div className="container-header">
